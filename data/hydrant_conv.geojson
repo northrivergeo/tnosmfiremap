@@ -1087,6 +1087,16 @@
 { "type": "Feature", "properties": { "osm_id": "9780398635", "other_tags": "\"emergency\"=>\"fire_hydrant\"" }, "geometry": { "type": "Point", "coordinates": [ -83.1769813, 35.3110462 ] } },
 { "type": "Feature", "properties": { "osm_id": "9783948336", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2449852, 35.0130532 ] } },
 { "type": "Feature", "properties": { "osm_id": "9783948337", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2477935, 35.0146596 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9783948338", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2474368, 35.0183528 ] } }
+{ "type": "Feature", "properties": { "osm_id": "9783948338", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2474368, 35.0183528 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038073", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2374583, 35.0470277 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038074", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2377272, 35.0460176 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038075", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2378311, 35.0446122 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038076", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2387089, 35.0424717 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038077", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2396436, 35.0400813 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038078", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2403048, 35.0379214 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038079", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2415486, 35.033433 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038080", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2424311, 35.0315503 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038081", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2431821, 35.0303421 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9784038082", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2441713, 35.0284371 ] } }
 ]
 }
