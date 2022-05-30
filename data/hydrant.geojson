@@ -693,6 +693,9 @@ var hydrant = {
 { "type": "Feature", "properties": { "osm_id": "9753208754", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2197004, 35.0074617 ] } },
 { "type": "Feature", "properties": { "osm_id": "9753208755", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2202412, 35.0094169 ] } },
 { "type": "Feature", "properties": { "osm_id": "9760723414", "other_tags": "\"couplings\"=>\"3\",\"emergency\"=>\"fire_hydrant\",\"water_source\"=>\"main\"" }, "geometry": { "type": "Point", "coordinates": [ -85.0598477, 36.6055043 ] } },
-{ "type": "Feature", "properties": { "osm_id": "9760723415", "other_tags": "\"couplings\"=>\"1\",\"emergency\"=>\"fire_hydrant\",\"water_source\"=>\"main\"" }, "geometry": { "type": "Point", "coordinates": [ -85.0600649, 36.605763 ] } }
+{ "type": "Feature", "properties": { "osm_id": "9760723415", "other_tags": "\"couplings\"=>\"1\",\"emergency\"=>\"fire_hydrant\",\"water_source\"=>\"main\"" }, "geometry": { "type": "Point", "coordinates": [ -85.0600649, 36.605763 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9783948336", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2449852, 35.0130532 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9783948337", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2477935, 35.0146596 ] } },
+{ "type": "Feature", "properties": { "osm_id": "9783948338", "other_tags": "\"emergency\"=>\"fire_hydrant\",\"fire_hydrant:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -85.2474368, 35.0183528 ] } }
 ]
 }

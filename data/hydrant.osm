@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-29T13:56:25Z"/>
+<meta osm_base="2022-05-30T22:14:39Z"/>
 
   <node id="1364451535" lat="35.0623899" lon="-85.3072231">
     <tag k="emergency" v="fire_hydrant"/>
@@ -6195,6 +6195,30 @@
     <tag k="couplings" v="1"/>
     <tag k="emergency" v="fire_hydrant"/>
     <tag k="water_source" v="main"/>
+  </node>
+  <node id="9780375015" lat="35.3102438" lon="-83.1813414">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="9780398621" lat="35.3105416" lon="-83.1868730">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="9780398631" lat="35.3120496" lon="-83.1816358">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="9780398635" lat="35.3110462" lon="-83.1769813">
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="9783948336" lat="35.0130532" lon="-85.2449852">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="9783948337" lat="35.0146596" lon="-85.2477935">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+  </node>
+  <node id="9783948338" lat="35.0183528" lon="-85.2474368">
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
   </node>
 
 </osm>
